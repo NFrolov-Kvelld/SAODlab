@@ -1,0 +1,3 @@
+﻿  1TASK.cpp
+C:\Users\Kvell\source\repos\LAb3-1\LAb3-1\1TASK.cpp(67,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAb3-1.vcxproj -> C:\Users\Kvell\source\repos\LAb3-1\x64\Debug\LAb3-1.exe
